@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1a052e;
+  padding: 20px;
+  border-bottom: 2px solid #ff00ff;
+}
+
+.coming-soon {
+  color: #ff00ff;
+  text-align: center;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 0 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
